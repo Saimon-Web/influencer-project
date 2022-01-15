@@ -165,6 +165,74 @@ nav  .logo img{
 .arr{
     color: #E44780;
 }
+/* third section style  */
+.third-section{
+   
+}
+.third-section h2 {
+    font-size: 24px;
+    font-weight: bold;
+    color:black;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+.third-section h1{
+    font-size: 35px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    color: rgb(78, 70, 70);
+}
+.contact-box{
+    display: flex;
+    justify-content: space-around;
+    background-color: #22213C;
+}
+.form{
+  
+   
+    padding: 50px;
+}
+.form form{
+    display: flex;
+    flex-direction: column;
+    padding: ;
+}
+.form h2{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+form input,textarea{
+    outline: none;
+    border: none;
+    border-bottom: 1px solid white;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    width: 500px;
+    background-color: #fff0;
+color: white;
+font-size: 16px;
+}
+textarea{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.contact-info{
+    padding: 50px;
+}
+.contact-info h2{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.contact-info h3 ,p{
+    color: #E44780;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.contact-info p{
+    color: white;
+    padding-top: 10px;
+    letter-spacing: 1px;
+}
+
 
 /* footer section style  */
 footer{

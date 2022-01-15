@@ -174,7 +174,7 @@ nav  .logo img{
     font-weight: bold;
     color:black;
     font-family: 'Poppins', sans-serif;
-    text-align: center;
+   
 }
 .third-section h1{
     font-size: 35px;
@@ -184,18 +184,19 @@ nav  .logo img{
 }
 .contact-box{
     display: flex;
-    justify-content: space-around;
+    justify-content:center;
     background-color: #22213C;
+   padding:50px 0;
 }
 .form{
-  
+  margin-right: 50px;
    
-    padding: 50px;
+ 
 }
 .form form{
     display: flex;
     flex-direction: column;
-    padding: ;
+   
 }
 .form h2{
     color: white;
@@ -216,21 +217,22 @@ textarea{
     font-size: 18px;
     font-family: Arial, Helvetica, sans-serif;
 }
-.contact-info{
-    padding: 50px;
+.cont{
+    margin-top: 60px;
 }
 .contact-info h2{
     color: white;
     font-family: Arial, Helvetica, sans-serif;
 }
-.contact-info h3 ,p{
+.contact-info h3 {
     color: #E44780;
     font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20px;
 }
 .contact-info p{
     color: white;
-    padding-top: 10px;
     letter-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 
